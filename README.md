@@ -3,8 +3,7 @@ Pattern recognition using Feedforward Fully Connected method
 <br /><br />
 
 # About This Project
-In this project we used MNIST dataset (http://yann.lecun.com/exdb/mnist/) which includes 28*28 array of 0 to 255 as the luminance.<br />
-We created 2 hidden layers each has 16 neurons.<br /><br />
+In this project we used MNIST dataset (http://yann.lecun.com/exdb/mnist/) which includes 28*28 array of 0 to 255 as the luminance then we created 2 hidden layers each has 16 neurons.<br /><br />
 ![This is an image](https://s4.uupload.ir/files/screenshot_from_2021-12-17_12-27-51_qwdg.png)
 
 ### step 1 (read.py):<br />
